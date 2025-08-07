@@ -36,4 +36,4 @@ A quick look at key parts in action:
 - Others: Terminal access and active internet connection
 
 ## 🔍 SEO Keywords  
-`smartalbums mac` · `photo album design macos` · `drag and drop album app mac` · `mac wedding album layout` · `mac print lab integration` · `professional album software mac` · `album design automation mac` · `mac psd album export` · `mac photo layout tool` · `event album builder mac` · `mac tiff photo album` · `offline album creator mac` · `smart albums design mac` · `mac custom spreads` · `mac portrait book designer`
+`smartalbums mac` · `photo album design macos` · `drag and drop album app mac` · `mac wedding album layout` · `mac print lab integration` · `professional album software mac` · `album design automation mac` · `mac psd album export` · `mac photo layout tool` · `event album builder mac` · `mac tiff photo album` · `offline album creator mac` · `smart albums design mac` · `mac custom spreads` · `mac portrait book designer` 
